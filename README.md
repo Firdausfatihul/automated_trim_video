@@ -1,4 +1,3 @@
-Okay, here's the documentation for your Python script, designed to be clear, concise, and suitable for a GitHub README.
 
 -----
 
